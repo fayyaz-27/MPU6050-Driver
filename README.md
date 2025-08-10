@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # MPU6050 Driver for ESP32
 
 Custom driver to interface the MPU6050 sensor with ESP32 via I2C Protocol using ESP-IDF.
